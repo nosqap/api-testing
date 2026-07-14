@@ -23,3 +23,10 @@ Test the REST API of Restful Booker using Postman.
 
 ## Result
 All endpoints were successfully tested.
+
+## Screenshots
+- POST Booking
+- GET Booking
+- PUT Booking
+- PATCH Booking
+- DELETE Booking
